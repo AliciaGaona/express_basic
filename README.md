@@ -1,2 +1,2 @@
 # express_basic
-eekly Mission 3
+weekly Mission 3
